@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5b0ec57e89544fbbb58b2e86098dc379" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="DVSModel.Calendar" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DVSModel.Car" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DVSModel.Customer" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DVSModel.Employee" Width="1.5" PointX="5.5" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="DVSModel.FK__Calendar__CarId__25518C17" ManuallyRouted="false" />
+        <AssociationConnector Association="DVSModel.FK__Calendar__CusId__2739D489" ManuallyRouted="false" />
+        <AssociationConnector Association="DVSModel.FK__Calendar__EmpId__2645B050" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

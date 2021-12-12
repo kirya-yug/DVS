@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DVSK.Main">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAEA4AAAAAHAIAAAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="18.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DVSK.AddBonus">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAABCAAACAgAACAAAIAAAAGEAIAAAIAAA=</HashCode>
+      <FileName>AddBonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.AddCalendar">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAARAACggABCSAACBAAACAAAIAEgBKEAICAIIAEA=</HashCode>
+      <FileName>AddCalendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.AddCar">
+    <Position X="13.5" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="19.562" Y="8" />
+        <Point X="19.562" Y="6.125" />
+        <Point X="14.25" Y="6.125" />
+        <Point X="14.25" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACgAABCAAACAAABCAAAIAAAAGEAAAAAIAAA=</HashCode>
+      <FileName>AddCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.AddCustomer">
+    <Position X="15" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="18.625" Y="8.691" />
+        <Point X="18.625" Y="11.375" />
+        <Point X="15.625" Y="11.375" />
+        <Point X="15.625" Y="11.261" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACgAABCAAACAgAACAAAIAAAAGEAIAAAIAAI=</HashCode>
+      <FileName>AddCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.AddEmployee">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACgAABCAAACIAAACAAAIAAAAGEAAAAAIAAA=</HashCode>
+      <FileName>AddEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.AddStory">
+    <Position X="15.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQgACgAABCAAACAAAACAAAIAAAAEEAIAAAIAAA=</HashCode>
+      <FileName>AddStory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.DeleteCalendar">
+    <Position X="17" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAABCAAACAgAACAAAIAAAAEEAAAAAIAAA=</HashCode>
+      <FileName>DeleteCalendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.DeleteCustomer">
+    <Position X="18.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAABCAAACAgAACAAAIAAAAEEAAAAAIAAA=</HashCode>
+      <FileName>DeleteCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.DeleteEmployee">
+    <Position X="20" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAABCAAACAgAACAAAIAAAAEEAAAAAIAAA=</HashCode>
+      <FileName>DeleteEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.MarkAsDone">
+    <Position X="21.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAACgAgBCQAACAgAACAAAIAAAAAEAAAAIIAAA=</HashCode>
+      <FileName>MarkAsDone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.SelectCar">
+    <Position X="20.5" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="19.438" Y="8.691" />
+        <Point X="19.438" Y="8.931" />
+        <Point X="20.26" Y="8.931" />
+        <Point X="20.26" Y="8.496" />
+        <Point X="20.5" Y="8.496" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECgAAACAAACAAAACAAgIAAAAEEAAAAEJAAA=</HashCode>
+      <FileName>SelectCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.SelectCustomer">
+    <Position X="22" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="19.688" Y="8.691" />
+        <Point X="19.688" Y="8.931" />
+        <Point X="20.26" Y="8.931" />
+        <Point X="20.26" Y="6.125" />
+        <Point X="22.75" Y="6.125" />
+        <Point X="22.75" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACgAABCAAACAAAACAAgIAAAAEEAAAAAIAAA=</HashCode>
+      <FileName>SelectCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.WatchCalendar">
+    <Position X="23.5" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="19.875" Y="8.691" />
+        <Point X="19.875" Y="8.931" />
+        <Point X="20.26" Y="8.931" />
+        <Point X="20.26" Y="6.125" />
+        <Point X="24.25" Y="6.125" />
+        <Point X="24.25" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>oQAAAACAACAAAAAAABCAAAACAEg4AAAAAHAIAAIAAAA=</HashCode>
+      <FileName>WatchCalendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.WatchCar">
+    <Position X="25" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="20" Y="8.625" />
+        <Point X="20.26" Y="8.625" />
+        <Point X="20.26" Y="6.125" />
+        <Point X="25.75" Y="6.125" />
+        <Point X="25.75" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAASCgAAACAAACBgAACAEg4AAAACHAIAAAIAEA=</HashCode>
+      <FileName>WatchCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.WatchCustomer">
+    <Position X="26.5" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="20" Y="8.125" />
+        <Point X="20.26" Y="8.125" />
+        <Point X="20.26" Y="6.125" />
+        <Point X="27.25" Y="6.125" />
+        <Point X="27.25" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAACAABCEgAACAMg4AAAAGHAMCAAIAAI=</HashCode>
+      <FileName>WatchCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DVSK.WatchEmployee">
+    <Position X="28" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedFromPoint="true">
+      <Path>
+        <Point X="19.938" Y="8" />
+        <Point X="19.938" Y="6.125" />
+        <Point X="29.875" Y="6.125" />
+        <Point X="29.875" Y="12.982" />
+        <Point X="28.75" Y="12.982" />
+        <Point X="28.75" Y="12.607" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAABAACgAAADAAQCAgAACAAg4AAABCHAIAAIIAAA=</HashCode>
+      <FileName>WatchEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
